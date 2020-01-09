@@ -1,0 +1,2 @@
+prodClassName;testSessionId;evoSessionId;prodClassesCovered.test;covratio.test;coveredLines.test;iqai.test;prodClassesCovered.evo;covratio.evo;coveredLines.evo;iqai.evo;lcom.prod;dit.prod;wmc.prod;rfc.prod;cbo.prod;loc.prod;prod.dataMethods;prod.methods;prod.setters;prod.getters;rfc.evo;wmc.evo;loc.evo;cbo.evo;dit.evo;lcom.evo;loc.test;wmc.test;dit.test;rfc.test;lcom.test;cbo.test
+com.github.jazzmuesli.jacevo.Calculator;a2093cad-25ca-49cf-8721-cba0373f5fd9;0c16aebf-6514-42cf-baa2-8ed0347108c0;2;67;2;100;3;100;3;100;1;1;2;0;0;9;0;2;0;0;3;6;33;6;2;15;6;1;1;2;0;2

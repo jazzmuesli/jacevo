@@ -1,0 +1,5 @@
+file,class,method,variable,usage
+/Users/preich/Documents/git/jacevo/src/test/java/com/github/jazzmuesli/jacevo/Calculator_ESTest_scaffolding.java,com.github.jazzmuesli.jacevo.Calculator_ESTest_scaffolding,clearEvoSuiteFramework/0,defaultProperties,1
+/Users/preich/Documents/git/jacevo/src/test/java/com/github/jazzmuesli/jacevo/Calculator_ESTest_scaffolding.java,com.github.jazzmuesli.jacevo.Calculator_ESTest_scaffolding,doneWithTestCase/0,threadStopper,1
+/Users/preich/Documents/git/jacevo/src/test/java/com/github/jazzmuesli/jacevo/Calculator_ESTest_scaffolding.java,com.github.jazzmuesli.jacevo.Calculator_ESTest_scaffolding,initTestCase/0,threadStopper,2
+/Users/preich/Documents/git/jacevo/src/test/java/com/github/jazzmuesli/jacevo/Calculator_ESTest_scaffolding.java,com.github.jazzmuesli.jacevo.Calculator_ESTest_scaffolding,setSystemProperties/0,defaultProperties,1

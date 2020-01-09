@@ -1,0 +1,3 @@
+file,class,method,constructor,line,cbo,wmc,rfc,loc,returns,variables,parameters,startLine,loopQty,comparisonsQty,tryCatchQty,parenthesizedExpsQty,stringLiteralsQty,numbersQty,assignmentsQty,mathOperationsQty,maxNestedBlocks,anonymousClassesQty,subClassesQty,lambdasQty,uniqueWordsQty,modifiers
+/Users/preich/Documents/git/jacevo/src/main/java/com/github/jazzmuesli/jacevo/Calculator.java,com.github.jazzmuesli.jacevo.Calculator,"divide/2[double,double]",false,5,0,1,0,3,1,0,2,5,0,0,0,0,0,0,0,1,0,0,0,0,3,1
+/Users/preich/Documents/git/jacevo/src/main/java/com/github/jazzmuesli/jacevo/Calculator.java,com.github.jazzmuesli.jacevo.Calculator,"add/2[double,double]",false,9,0,1,0,3,1,0,2,9,0,0,0,0,0,0,0,1,0,0,0,0,3,1

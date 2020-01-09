@@ -1,0 +1,5 @@
+file,class,method,variable,usage
+/Users/preich/Documents/git/jacevo/src/main/java/com/github/jazzmuesli/jacevo/Calculator.java,com.github.jazzmuesli.jacevo.Calculator,"divide/2[double,double]",a,1
+/Users/preich/Documents/git/jacevo/src/main/java/com/github/jazzmuesli/jacevo/Calculator.java,com.github.jazzmuesli.jacevo.Calculator,"divide/2[double,double]",b,1
+/Users/preich/Documents/git/jacevo/src/main/java/com/github/jazzmuesli/jacevo/Calculator.java,com.github.jazzmuesli.jacevo.Calculator,"add/2[double,double]",a,1
+/Users/preich/Documents/git/jacevo/src/main/java/com/github/jazzmuesli/jacevo/Calculator.java,com.github.jazzmuesli.jacevo.Calculator,"add/2[double,double]",b,1
